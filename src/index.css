@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.error-msg {
+  color: red;
+  padding: 10px;
+}
+
+.am-tab-bar {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  z-index: -1
+}
+
+.am-card-header-content>img {
+  max-width: 30px;
+}
